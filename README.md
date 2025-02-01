@@ -36,9 +36,9 @@
 
 ## Usage
 
-1. Download the flavor and accent of your choice.
-2. Using `posting locate themes` to locate the themes directory.
-3. Move the theme files to the themes directory.
+1. Download the flavor and accent combination of your choice.
+2. Use `posting locate themes` to locate the themes directory.
+3. Move the theme file to the themes directory.
 4. Enter posting, use `<ctrl> + p` to bring up the command palette, select "Change theme" from the menu, then set the theme to your liking.
 
 ## 💝 Thanks to
