@@ -1,0 +1,38 @@
+name: "catppuccin-latte-pink"
+primary: "#ea76cb" # buttons, fixed table columns
+secondary: "#ea76cb"  # method selector, some minor labels
+accent: "#ea76cb"  # header text, scrollbars, cursors, focus highlights
+background: "#eff1f5" # background colors
+surface: "#ccd0da"  # panels, etc
+error: "#d20f39"  # error messages
+success: "#40a02b"  # success messages
+warning: "#df8e1d"  # warning messages
+dark: "false"
+
+text_area:
+  cursor: "reverse #dc8a78"
+  cursor_line: "underline #4c4f69"
+  selection: "reverse #7c7f93"
+  gutter: "bold #40a02b"
+  matched_bracket: "reverse #5c5f77"
+
+url:
+  base: "italic #1e66f5"
+  protocol: "bold #179299"
+  separator: "#4c4f69"
+
+syntax:
+  json_key: "italic #1e66f5"
+  json_number: "#fe640b"
+  json_string: "#40a02b"
+  json_boolean: "#04a5e5"
+  json_null: "#7c7f93"
+
+method:
+  get: "bold #1e66f5"
+  post: "bold #40a02b"
+  put: "bold #df8e1d"
+  delete: "bold #d20f39"
+  patch: "bold #179299"
+  options: "bold #7287fd"
+  head: "bold #8839ef"

@@ -1,0 +1,46 @@
+---
+whiskers:
+  version: "2.3.0"
+  matrix:
+    - flavor
+    - accent
+  filename: "themes/{{ flavor.identifier }}/catppuccin-{{ flavor.identifier }}-{{ accent }}.yaml"
+---
+name: "catppuccin-{{ flavor.identifier }}-{{ accent }}"
+primary: "#{{ flavor.colors[accent].hex }}" # buttons, fixed table columns
+secondary: "#{{ flavor.colors[accent].hex }}"  # method selector, some minor labels
+accent: "#{{ flavor.colors[accent].hex }}"  # header text, scrollbars, cursors, focus highlights
+background: "#{{ base.hex }}" # background colors
+surface: "#{{ surface0.hex }}"  # panels, etc
+error: "#{{ red.hex }}"  # error messages
+success: "#{{ green.hex }}"  # success messages
+warning: "#{{ yellow.hex }}"  # warning messages
+dark: "{{ flavor.dark }}"
+
+text_area:
+  cursor: "reverse #{{ rosewater.hex }}"
+  cursor_line: "underline #{{ text.hex }}"
+  selection: "reverse #{{ overlay2.hex }}"
+  gutter: "bold #{{ green.hex }}"
+  matched_bracket: "reverse #{{ subtext1.hex }}"
+
+url:
+  base: "italic #{{ blue.hex }}"
+  protocol: "bold #{{ teal.hex }}"
+  separator: "#{{ text.hex }}"
+
+syntax:
+  json_key: "italic #{{ blue.hex }}"
+  json_number: "#{{ peach.hex }}"
+  json_string: "#{{ green.hex }}"
+  json_boolean: "#{{ sky.hex }}"
+  json_null: "#{{ overlay2.hex }}"
+
+method:
+  get: "bold #{{ blue.hex }}"
+  post: "bold #{{ green.hex }}"
+  put: "bold #{{ yellow.hex }}"
+  delete: "bold #{{ red.hex }}"
+  patch: "bold #{{ teal.hex }}"
+  options: "bold #{{ lavender.hex }}"
+  head: "bold #{{ mauve.hex }}"
