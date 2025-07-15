@@ -1,7 +1,7 @@
 name: "catppuccin-macchiato-red"
 primary: "#ed8796" # buttons, fixed table columns
 secondary: "#ed8796"  # method selector, some minor labels
-accent: "#ed8796"  # header text, scrollbars, cursors, focus highlights
+accent: "#f4b4be"  # header text, scrollbars, cursors, focus highlights
 background: "#24273a" # background colors
 surface: "#363a4f"  # panels, etc
 error: "#ed8796"  # error messages

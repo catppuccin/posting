@@ -1,7 +1,7 @@
 name: "catppuccin-frappe-peach"
 primary: "#ef9f76" # buttons, fixed table columns
 secondary: "#ef9f76"  # method selector, some minor labels
-accent: "#ef9f76"  # header text, scrollbars, cursors, focus highlights
+accent: "#f5c0a5"  # header text, scrollbars, cursors, focus highlights
 background: "#303446" # background colors
 surface: "#414559"  # panels, etc
 error: "#e78284"  # error messages

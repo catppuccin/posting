@@ -1,7 +1,7 @@
 name: "catppuccin-frappe-maroon"
 primary: "#ea999c" # buttons, fixed table columns
 secondary: "#ea999c"  # method selector, some minor labels
-accent: "#ea999c"  # header text, scrollbars, cursors, focus highlights
+accent: "#f3c5c6"  # header text, scrollbars, cursors, focus highlights
 background: "#303446" # background colors
 surface: "#414559"  # panels, etc
 error: "#e78284"  # error messages

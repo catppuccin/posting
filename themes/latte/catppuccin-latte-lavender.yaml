@@ -1,7 +1,7 @@
 name: "catppuccin-latte-lavender"
 primary: "#7287fd" # buttons, fixed table columns
 secondary: "#7287fd"  # method selector, some minor labels
-accent: "#7287fd"  # header text, scrollbars, cursors, focus highlights
+accent: "#405cfc"  # header text, scrollbars, cursors, focus highlights
 background: "#eff1f5" # background colors
 surface: "#ccd0da"  # panels, etc
 error: "#d20f39"  # error messages

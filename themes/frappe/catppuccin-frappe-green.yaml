@@ -1,7 +1,7 @@
 name: "catppuccin-frappe-green"
 primary: "#a6d189" # buttons, fixed table columns
 secondary: "#a6d189"  # method selector, some minor labels
-accent: "#a6d189"  # header text, scrollbars, cursors, focus highlights
+accent: "#c2e0ae"  # header text, scrollbars, cursors, focus highlights
 background: "#303446" # background colors
 surface: "#414559"  # panels, etc
 error: "#e78284"  # error messages

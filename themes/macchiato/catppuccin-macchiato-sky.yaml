@@ -1,7 +1,7 @@
 name: "catppuccin-macchiato-sky"
 primary: "#91d7e3" # buttons, fixed table columns
 secondary: "#91d7e3"  # method selector, some minor labels
-accent: "#91d7e3"  # header text, scrollbars, cursors, focus highlights
+accent: "#bae6ee"  # header text, scrollbars, cursors, focus highlights
 background: "#24273a" # background colors
 surface: "#363a4f"  # panels, etc
 error: "#ed8796"  # error messages

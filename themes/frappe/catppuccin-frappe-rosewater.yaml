@@ -1,7 +1,7 @@
 name: "catppuccin-frappe-rosewater"
 primary: "#f2d5cf" # buttons, fixed table columns
 secondary: "#f2d5cf"  # method selector, some minor labels
-accent: "#f2d5cf"  # header text, scrollbars, cursors, focus highlights
+accent: "#fdf9f9"  # header text, scrollbars, cursors, focus highlights
 background: "#303446" # background colors
 surface: "#414559"  # panels, etc
 error: "#e78284"  # error messages

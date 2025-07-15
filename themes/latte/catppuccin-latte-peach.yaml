@@ -1,7 +1,7 @@
 name: "catppuccin-latte-peach"
 primary: "#fe640b" # buttons, fixed table columns
 secondary: "#fe640b"  # method selector, some minor labels
-accent: "#fe640b"  # header text, scrollbars, cursors, focus highlights
+accent: "#d54f01"  # header text, scrollbars, cursors, focus highlights
 background: "#eff1f5" # background colors
 surface: "#ccd0da"  # panels, etc
 error: "#d20f39"  # error messages

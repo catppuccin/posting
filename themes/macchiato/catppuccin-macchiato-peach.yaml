@@ -1,7 +1,7 @@
 name: "catppuccin-macchiato-peach"
 primary: "#f5a97f" # buttons, fixed table columns
 secondary: "#f5a97f"  # method selector, some minor labels
-accent: "#f5a97f"  # header text, scrollbars, cursors, focus highlights
+accent: "#f9c9af"  # header text, scrollbars, cursors, focus highlights
 background: "#24273a" # background colors
 surface: "#363a4f"  # panels, etc
 error: "#ed8796"  # error messages

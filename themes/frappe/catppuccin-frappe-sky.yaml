@@ -1,7 +1,7 @@
 name: "catppuccin-frappe-sky"
 primary: "#99d1db" # buttons, fixed table columns
 secondary: "#99d1db"  # method selector, some minor labels
-accent: "#99d1db"  # header text, scrollbars, cursors, focus highlights
+accent: "#bfe2e9"  # header text, scrollbars, cursors, focus highlights
 background: "#303446" # background colors
 surface: "#414559"  # panels, etc
 error: "#e78284"  # error messages

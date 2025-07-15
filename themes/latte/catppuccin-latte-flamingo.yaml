@@ -1,7 +1,7 @@
 name: "catppuccin-latte-flamingo"
 primary: "#dd7878" # buttons, fixed table columns
 secondary: "#dd7878"  # method selector, some minor labels
-accent: "#dd7878"  # header text, scrollbars, cursors, focus highlights
+accent: "#d34f4f"  # header text, scrollbars, cursors, focus highlights
 background: "#eff1f5" # background colors
 surface: "#ccd0da"  # panels, etc
 error: "#d20f39"  # error messages

@@ -1,7 +1,7 @@
 name: "catppuccin-mocha-pink"
 primary: "#f5c2e7" # buttons, fixed table columns
 secondary: "#f5c2e7"  # method selector, some minor labels
-accent: "#f5c2e7"  # header text, scrollbars, cursors, focus highlights
+accent: "#fcf0f9"  # header text, scrollbars, cursors, focus highlights
 background: "#1e1e2e" # background colors
 surface: "#313244"  # panels, etc
 error: "#f38ba8"  # error messages

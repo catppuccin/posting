@@ -1,7 +1,7 @@
 name: "catppuccin-latte-maroon"
 primary: "#e64553" # buttons, fixed table columns
 secondary: "#e64553"  # method selector, some minor labels
-accent: "#e64553"  # header text, scrollbars, cursors, focus highlights
+accent: "#db1d2d"  # header text, scrollbars, cursors, focus highlights
 background: "#eff1f5" # background colors
 surface: "#ccd0da"  # panels, etc
 error: "#d20f39"  # error messages

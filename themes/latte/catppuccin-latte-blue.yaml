@@ -1,7 +1,7 @@
 name: "catppuccin-latte-blue"
 primary: "#1e66f5" # buttons, fixed table columns
 secondary: "#1e66f5"  # method selector, some minor labels
-accent: "#1e66f5"  # header text, scrollbars, cursors, focus highlights
+accent: "#0a4ed6"  # header text, scrollbars, cursors, focus highlights
 background: "#eff1f5" # background colors
 surface: "#ccd0da"  # panels, etc
 error: "#d20f39"  # error messages

@@ -1,7 +1,7 @@
 name: "catppuccin-mocha-rosewater"
 primary: "#f5e0dc" # buttons, fixed table columns
 secondary: "#f5e0dc"  # method selector, some minor labels
-accent: "#f5e0dc"  # header text, scrollbars, cursors, focus highlights
+accent: "#ffffff"  # header text, scrollbars, cursors, focus highlights
 background: "#1e1e2e" # background colors
 surface: "#313244"  # panels, etc
 error: "#f38ba8"  # error messages

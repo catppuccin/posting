@@ -6,10 +6,16 @@ whiskers:
     - accent
   filename: "themes/{{ flavor.identifier }}/catppuccin-{{ flavor.identifier }}-{{ accent }}.yaml"
 ---
+{%- if flavor.light -%}
+  {%- set shaded_accent = flavor.colors[accent] | sub(lightness=10) | get(key="hex") -%}
+{%- else -%}
+  {%- set shaded_accent = flavor.colors[accent] | add(lightness=10) | get(key="hex") -%}
+{%- endif -%}
+
 name: "catppuccin-{{ flavor.identifier }}-{{ accent }}"
 primary: "#{{ flavor.colors[accent].hex }}" # buttons, fixed table columns
 secondary: "#{{ flavor.colors[accent].hex }}"  # method selector, some minor labels
-accent: "#{{ flavor.colors[accent].hex }}"  # header text, scrollbars, cursors, focus highlights
+accent: "#{{ shaded_accent }}"  # header text, scrollbars, cursors, focus highlights
 background: "#{{ base.hex }}" # background colors
 surface: "#{{ surface0.hex }}"  # panels, etc
 error: "#{{ red.hex }}"  # error messages

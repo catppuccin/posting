@@ -1,7 +1,7 @@
 name: "catppuccin-frappe-flamingo"
 primary: "#eebebe" # buttons, fixed table columns
 secondary: "#eebebe"  # method selector, some minor labels
-accent: "#eebebe"  # header text, scrollbars, cursors, focus highlights
+accent: "#f9e7e7"  # header text, scrollbars, cursors, focus highlights
 background: "#303446" # background colors
 surface: "#414559"  # panels, etc
 error: "#e78284"  # error messages

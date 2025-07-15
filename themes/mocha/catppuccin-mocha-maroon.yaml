@@ -1,7 +1,7 @@
 name: "catppuccin-mocha-maroon"
 primary: "#eba0ac" # buttons, fixed table columns
 secondary: "#eba0ac"  # method selector, some minor labels
-accent: "#eba0ac"  # header text, scrollbars, cursors, focus highlights
+accent: "#f4ccd3"  # header text, scrollbars, cursors, focus highlights
 background: "#1e1e2e" # background colors
 surface: "#313244"  # panels, etc
 error: "#f38ba8"  # error messages

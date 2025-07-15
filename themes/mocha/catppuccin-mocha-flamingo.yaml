@@ -1,7 +1,7 @@
 name: "catppuccin-mocha-flamingo"
 primary: "#f2cdcd" # buttons, fixed table columns
 secondary: "#f2cdcd"  # method selector, some minor labels
-accent: "#f2cdcd"  # header text, scrollbars, cursors, focus highlights
+accent: "#fdf7f7"  # header text, scrollbars, cursors, focus highlights
 background: "#1e1e2e" # background colors
 surface: "#313244"  # panels, etc
 error: "#f38ba8"  # error messages

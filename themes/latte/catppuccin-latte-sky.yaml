@@ -1,7 +1,7 @@
 name: "catppuccin-latte-sky"
 primary: "#04a5e5" # buttons, fixed table columns
 secondary: "#04a5e5"  # method selector, some minor labels
-accent: "#04a5e5"  # header text, scrollbars, cursors, focus highlights
+accent: "#0381b3"  # header text, scrollbars, cursors, focus highlights
 background: "#eff1f5" # background colors
 surface: "#ccd0da"  # panels, etc
 error: "#d20f39"  # error messages

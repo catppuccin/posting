@@ -1,7 +1,7 @@
 name: "catppuccin-macchiato-rosewater"
 primary: "#f4dbd6" # buttons, fixed table columns
 secondary: "#f4dbd6"  # method selector, some minor labels
-accent: "#f4dbd6"  # header text, scrollbars, cursors, focus highlights
+accent: "#ffffff"  # header text, scrollbars, cursors, focus highlights
 background: "#24273a" # background colors
 surface: "#363a4f"  # panels, etc
 error: "#ed8796"  # error messages

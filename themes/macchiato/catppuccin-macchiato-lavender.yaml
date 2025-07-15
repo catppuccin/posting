@@ -1,7 +1,7 @@
 name: "catppuccin-macchiato-lavender"
 primary: "#b7bdf8" # buttons, fixed table columns
 secondary: "#b7bdf8"  # method selector, some minor labels
-accent: "#b7bdf8"  # header text, scrollbars, cursors, focus highlights
+accent: "#e7e9fd"  # header text, scrollbars, cursors, focus highlights
 background: "#24273a" # background colors
 surface: "#363a4f"  # panels, etc
 error: "#ed8796"  # error messages

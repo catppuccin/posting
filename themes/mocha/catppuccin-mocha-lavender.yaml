@@ -1,7 +1,7 @@
 name: "catppuccin-mocha-lavender"
 primary: "#b4befe" # buttons, fixed table columns
 secondary: "#b4befe"  # method selector, some minor labels
-accent: "#b4befe"  # header text, scrollbars, cursors, focus highlights
+accent: "#e7eaff"  # header text, scrollbars, cursors, focus highlights
 background: "#1e1e2e" # background colors
 surface: "#313244"  # panels, etc
 error: "#f38ba8"  # error messages

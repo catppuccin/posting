@@ -1,7 +1,7 @@
 name: "catppuccin-latte-sapphire"
 primary: "#209fb5" # buttons, fixed table columns
 secondary: "#209fb5"  # method selector, some minor labels
-accent: "#209fb5"  # header text, scrollbars, cursors, focus highlights
+accent: "#18798a"  # header text, scrollbars, cursors, focus highlights
 background: "#eff1f5" # background colors
 surface: "#ccd0da"  # panels, etc
 error: "#d20f39"  # error messages
